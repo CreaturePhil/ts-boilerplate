@@ -1,0 +1,19 @@
+{
+  "name": "ts-boilerplate",
+  "version": "1.0.0",
+  "description": "A TypeScript Boilerplate.",
+  "scripts": {
+    "start": "ts-node app.ts",
+    "test": "tslint *.ts"
+  },
+  "author": "Philip La <birkal@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "ts-node": "^0.9.3",
+    "tslint": "^3.13.0",
+    "typescript": "^1.8.10"
+  }
+}
