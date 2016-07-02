@@ -2,14 +2,14 @@
 
 A TypeScript Boilerplate.
 
-# quick start
+## quick start
 
 ```
-$ git clone https://github.com/CreaturePhil/ts-boilerplate.git
-$ cd ts-boilerplate
+$ git clone https://github.com/CreaturePhil/ts-boilerplate.git app-name
+$ cd app-name && npm install
 $ npm start
 ```
 
-# license
+## license
 
 [MIT](LICENSE)
